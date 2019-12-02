@@ -1,2 +1,3 @@
 # dummy-rest
-A dummy REST api
+A dummy data for use with https://jsonplaceholder.typicode.com/
+
