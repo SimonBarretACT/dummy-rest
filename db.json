@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"users":[{"id":1,"gender":"Male","first_name":"Dante","last_name":"Cyphus","email":"dcyphus0@hud.gov","ip_address":"32.210.26.20"},{"id":2,"gender":"Female","first_name":"Marty","last_name":"Siebart","email":"msiebart1@un.org","ip_address":"63.95.192.3"},{"id":3,"gender":"Male","first_name":"Luke","last_name":"Daintrey","email":"ldaintrey2@google.ru","ip_address":"172.100.132.39"},{"id":4,"gender":"Female","first_name":"Lucita","last_name":"Balfe","email":"lbalfe3@facebook.com","ip_address":"57.141.84.81"},{"id":5,"gender":"Female","first_name":"Rosaline","last_name":"Biddlestone","email":"rbiddlestone4@ibm.com","ip_address":"136.238.142.83"},{"id":6,"gender":"Female","first_name":"Angelique","last_name":"Kleinberer","email":"akleinberer5@columbia.edu","ip_address":"138.207.254.54"},{"id":7,"gender":"Male","first_name":"Dorian","last_name":"Tapply","email":"dtapply6@salon.com","ip_address":"207.187.159.182"}]}]
