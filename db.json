@@ -272,5 +272,63 @@
       "image": "http://dummyimage.com/138x190.bmp/cc0000/ffffff",
       "ownerId": 2
     }
+  ],
+  "profile": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Taylor",
+        "last": "Myers"
+      },
+      "location": {
+        "street": {
+          "number": 9698,
+          "name": "Mockingbird Ln"
+        },
+        "city": "Roseburg",
+        "state": "California",
+        "country": "United States",
+        "postcode": 50443,
+        "coordinates": {
+          "latitude": "84.7226",
+          "longitude": "175.6098"
+        },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "taylor.myers@example.com",
+      "login": {
+        "uuid": "ea1af8c1-7e77-4dad-aea6-1c32af24fc8b",
+        "username": "greencat786",
+        "password": "paintbal",
+        "salt": "6EB2QZ64",
+        "md5": "21ffe0ff3de14aa6af9b7ee4c73c8ba7",
+        "sha1": "184f1c3eef19dc826cd3d99191b0cc64504101e9",
+        "sha256": "f3ff4436172e1ea72709a6c00c4dac93732ef57dc6a64d502de16b977565240b"
+      },
+      "dob": {
+        "date": "1957-12-14T22:05:38.260Z",
+        "age": 63
+      },
+      "registered": {
+        "date": "2004-07-31T17:03:31.182Z",
+        "age": 16
+      },
+      "phone": "(912)-975-7352",
+      "cell": "(675)-406-6908",
+      "id": {
+        "name": "SSN",
+        "value": "054-04-5999"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/65.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+      },
+      "nat": "US"
+    }
   ]
 }
