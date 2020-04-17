@@ -201,5 +201,16 @@
       "gender": "Male",
       "ip_address": "164.76.170.192"
     }
-  ]
+  ],
+"posts" :
+  [{"id":1,"name":"Dusicyon thous","content":"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.","image":"http://dummyimage.com/180x127.jpg/cc0000/ffffff"},
+{"id":2,"name":"Acridotheres tristis","content":"Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.","image":"http://dummyimage.com/227x180.bmp/cc0000/ffffff"},
+{"id":3,"name":"Neophoca cinerea","content":"Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.","image":"http://dummyimage.com/242x246.bmp/dddddd/000000"},
+{"id":4,"name":"Passer domesticus","content":"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.","image":"http://dummyimage.com/155x216.png/dddddd/000000"},
+{"id":5,"name":"Catharacta skua","content":"Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.","image":"http://dummyimage.com/115x141.png/dddddd/000000"},
+{"id":6,"name":"Neotis denhami","content":"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.","image":"http://dummyimage.com/180x185.jpg/dddddd/000000"},
+{"id":7,"name":"Eolophus roseicapillus","content":"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.","image":"http://dummyimage.com/125x147.png/5fa2dd/ffffff"},
+{"id":8,"name":"Kobus vardonii vardoni","content":"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.","image":"http://dummyimage.com/181x153.png/ff4444/ffffff"},
+{"id":9,"name":"Chlidonias leucopterus","content":"Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.","image":"http://dummyimage.com/184x190.bmp/cc0000/ffffff"},
+{"id":10,"name":"Heloderma horridum","content":"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.","image":"http://dummyimage.com/157x102.bmp/cc0000/ffffff"}]
 }
